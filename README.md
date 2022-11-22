@@ -1,8 +1,12 @@
 # Event Source Actor By Interface
 
+Actor for LabVIEW Actor Framework implementing publisher subscriber model of communication with zero coupling
+
 **Source LabVIEW Version:** 2020
 
-fork from:[GitHub - Primary-Key/Event-Source-Actor: Actor for LabVIEW Actor Framework implementing publisher subscriber model of communication with zero coupling](https://github.com/Primary-Key/Event-Source-Actor)
+**Author:** Piotr Kruczkowski
+
+**Fork from:** [GitHub - Primary-Key/Event-Source-Actor](https://github.com/Primary-Key/Event-Source-Actor)
 
 ---
 

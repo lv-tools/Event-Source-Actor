@@ -8,11 +8,11 @@ fork from:[GitHub - Primary-Key/Event-Source-Actor: Actor for LabVIEW Actor Fram
 
 Event Source Actor的接口实现，为了便于理解增加了范例，删除了没有使用的Event Receiver Actor类，只保留接口。
 
-![Example.png](C:\Users\huipeng8\Desktop\Event-Source-Actor\example\Example.png)
+![Example.png](example/Example.png)
 
 范例类图如下：
 
-![ClassHierarchy.png](example\ClassHierarchy.png)
+![ClassHierarchy.png](example/ClassHierarchy.png)
 
 Example Source：数据产生类，继承Timed Loop Controller实现定时发送数据
 

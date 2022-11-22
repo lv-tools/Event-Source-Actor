@@ -1,8 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="20008000">
-	<Property Name="EndevoGOOP_ClassItemIcon" Type="Str">InterfaceBlue</Property>
-	<Property Name="NI.Lib.ContainingLib" Type="Str">Event Source.lvlib</Property>
-	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Event Source.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)U!!!*Q(C=\&gt;7^&lt;2N"%-8R:U/"5F:AASU]1+E3NM!+$%Q,FTJE)O@4!G/,#6O9&amp;ABV1%"QI*$_=T7E:-C:"&gt;EQ&gt;-=^(&gt;`&gt;TP\O1UNJ,*@3B1[PM&amp;#L.Y@THJZ66G^/]?H%J`[HYTL]]HH28Y_V$\XT9PT@^``$;XN@XJ@`?@H[^`]00JSGA+)F,7B_H#_+P-C,P-C,P-C40-G40-G40-G$0-C$0-C$0-B.&lt;H+4G^TEFM;M)X+2CVQ?]UQR?$&amp;15&lt;1I5*Q-2=7G]"3?QF.Y_+L#5XA+4_%J0*SCQF.Y#E`B+4RU5_%J0)7H]"1?3AV*D:5=4_'BP"*0YEE]C3@R-+134Q*)"EM+*U6A+$G9\#3?R*.YW&amp;8C34S**`%E(AYL]33?R*.Y%A^&gt;RFX*I4GOZ(AII]!4?!*0Y!E]F&amp;&lt;A#4S"*`!%(I:4Y!E]!3)9-#A/15'HY)4A3_!*00R2Y!E]A3@Q""Y/D3=5Y]Y=.=?6()`R')`R')`R5%,'9TT'9TT'1VE:D`%9D`%9$U0*?)T(?!T%$-LQ-M6-2X/3#9S(TXB&lt;0*Z3$IH(KPY.(#_K_A65PVDK&amp;U&lt;^)KA@M0L"K2_)_E;L&lt;[$[RKAP7(UB;K"[9(6"^9H;M^X2NL1V&lt;57&lt;;%P;AD;HT9Z&gt;8`H%`8[PX7[H\8;L^8KNV7KF;:KU8#[V7#QUH]]VG]X/U]"HVP/%]$1PX8`\=PWQG;Z`X'\O(LZ@@&lt;K`W&gt;S^U?`T0T!X[K/?D]%^_AH;L,2&lt;!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
